@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrivialGeografia", "TrivialGeografia.csproj", "{B45BFB68-53E6-4420-8260-92A8D2CF093F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B45BFB68-53E6-4420-8260-92A8D2CF093F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45BFB68-53E6-4420-8260-92A8D2CF093F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45BFB68-53E6-4420-8260-92A8D2CF093F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B45BFB68-53E6-4420-8260-92A8D2CF093F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B45BFB68-53E6-4420-8260-92A8D2CF093F}.Debug|x64.Build.0 = Debug|Any CPU
+		{B45BFB68-53E6-4420-8260-92A8D2CF093F}.Debug|x64.Deploy.0 = Debug|Any CPU
+		{B45BFB68-53E6-4420-8260-92A8D2CF093F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45BFB68-53E6-4420-8260-92A8D2CF093F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45BFB68-53E6-4420-8260-92A8D2CF093F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B45BFB68-53E6-4420-8260-92A8D2CF093F}.Release|x64.ActiveCfg = Release|x64
+		{B45BFB68-53E6-4420-8260-92A8D2CF093F}.Release|x64.Build.0 = Release|x64
+		{B45BFB68-53E6-4420-8260-92A8D2CF093F}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC1CD942-E609-4179-AD6B-91EBF67D6C3B}
+	EndGlobalSection
+EndGlobal
